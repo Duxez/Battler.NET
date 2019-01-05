@@ -1,4 +1,4 @@
-![[](https://img.shields.io/nuget/v/Battler.NET.svg)](https://www.nuget.org/packages/Battler.NET/)
+[![](https://img.shields.io/nuget/v/Battler.NET.svg)](https://www.nuget.org/packages/Battler.NET/)
 
 ##Battler.NET
 Battler.NET is an API wrapper for .NET Core projects.
