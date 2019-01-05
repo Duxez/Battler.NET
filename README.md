@@ -1,4 +1,4 @@
-![[](https://buildstats.info/nuget/Battler.NET)](https://www.nuget.org/packages/Battler.NET/)
+![[NuGet Badge](https://buildstats.info/nuget/Battler.NET)](https://www.nuget.org/packages/Battler.NET/)
 
 ##Battler.NET
 Battler.NET is an API wrapper for .NET Core projects.
