@@ -1,0 +1,8 @@
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\bin\Release\netcoreapp2.1\Battler.NET.deps.json
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\bin\Release\netcoreapp2.1\Battler.NET.dll
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\bin\Release\netcoreapp2.1\Battler.NET.pdb
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\BattleriteAPIWrapper.csproj.CoreCompileInputs.cache
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\BattleriteAPIWrapper.AssemblyInfoInputs.cache
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\BattleriteAPIWrapper.AssemblyInfo.cs
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\Battler.NET.dll
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\Battler.NET.pdb

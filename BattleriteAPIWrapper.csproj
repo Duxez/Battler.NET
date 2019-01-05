@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Battler.NET</AssemblyName>
+    <RootNamespace>Battler.NET</RootNamespace>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Job Rapati</Authors>
+    <Copyright>Job Rapati 2019</Copyright>
+    <PackageProjectUrl>https://github.com/Duxez/Battler.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Duxez/Battler.NET</RepositoryUrl>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>
