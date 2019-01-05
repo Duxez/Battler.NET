@@ -10,11 +10,11 @@ using System.Web;
 
 namespace Battler.NET
 {
-    public class Battler
+    public class BattlerClient
     {
         HttpClient httpClient = new HttpClient();
 
-        public Battler(string apiKey)
+        public BattlerClient(string apiKey)
         {
             httpClient.BaseAddress = new Uri("https://api.developer.battlerite.com/");
             httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);

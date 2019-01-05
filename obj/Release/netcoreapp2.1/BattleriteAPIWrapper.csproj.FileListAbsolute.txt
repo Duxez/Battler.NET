@@ -6,3 +6,4 @@ C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Releas
 C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\BattleriteAPIWrapper.AssemblyInfo.cs
 C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\Battler.NET.dll
 C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\Battler.NET.pdb
+C:\Users\jrapa\source\repos\BattleriteAPIWrapper\BattleriteAPIWrapper\obj\Release\netcoreapp2.1\BattleriteAPIWrapper.csprojAssemblyReference.cache

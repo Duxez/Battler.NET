@@ -9,7 +9,7 @@
     <Copyright>Job Rapati 2019</Copyright>
     <PackageProjectUrl>https://github.com/Duxez/Battler.NET</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Duxez/Battler.NET</RepositoryUrl>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

@@ -735,7 +735,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\jrapa\\source\\repos\\BattleriteAPIWrapper\\BattleriteAPIWrapper\\BattleriteAPIWrapper.csproj",
       "projectName": "Battler.NET",
